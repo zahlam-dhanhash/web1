@@ -1,0 +1,43 @@
+.main-header-text:hover {
+    color: red
+}
+
+.text-center {
+    font-family: "Playfair Display", serif;
+    background-color: black;
+    color: aliceblue;
+}
+
+* {
+    background-color: black;
+}
+
+.nav-link {
+    color: aliceblue;
+
+}
+
+.nav-link:hover {
+    color: brown;
+
+}
+
+body {
+    background-color: black;
+}
+
+.container-fluid-1 {
+    background-color: white;
+}
+.fw-light{
+    color: #6c6b68;
+}
+.footer1{
+    font-size: 12px;
+   
+}
+.footer1:hover{
+    color:brown;
+    text-decoration: underline;
+    cursor: pointer;
+}
